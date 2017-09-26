@@ -1,7 +1,7 @@
 # ISO PDF/X
 # specification
-| source | published | referens
-| ------ | --------- | -------- 
+| source | published | reference
+| ------ | --------- | --------- 
 | ISO    | 2001-12   | ISO 15930-1:2001 -- Graphic technology -- Prepress digital data exchange -- Use of PDF -- Part 1: Complete exchange using CMYK data (PDF/X-1 and PDF/X-1a) (Edition 1, pages 17)
 | ISO    |  2002-09  | ISO 15930-3:2002 -- Graphic technology -- Prepress digital data exchange -- Use of PDF -- Part 3: Complete exchange suitable for colour-managed workflows (PDF/X-3) (Edition 1, pages 16)
 | ISO    | 2003-12   | ISO 15930-4:2003 -- Graphic technology -- Prepress digital data exchange using PDF -- Part 4: Complete exchange of CMYK and spot colour printing data using PDF 1.4 (PDF/X-1a) (Edition 1, pages 16)
