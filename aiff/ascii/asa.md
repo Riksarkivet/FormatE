@@ -1,5 +1,5 @@
 # American Standards Association: American Standard Code for Information Interchange
-| Identifier               | value
+| identifier               | value
 | ----------------------- | -----
 | IANA alias              | US-ASCII 
 
