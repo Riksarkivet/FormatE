@@ -1,7 +1,7 @@
 # ISO PDF/A
 # specification
-| source | published | id
-| ------ | --------- | --
+| source | published | reference
+| ------ | --------- | ---------
 | ISO    | 2005-10   | ISO 19005-1:2005 -- Document management -- Electronic document file format for long-term preservation -- Part 1: Use of PDF 1.4 (PDF/A-1) (Edition 1, pages 29)
 | ISO    | 2007-04   | ISO 19005-1:2005/Cor 1:2007 (edition 1, pages 4)
 | ISO    | 2011-2    | ISO 19005-1:2005/Cor 2:2011 (edition 1, pages 6)
