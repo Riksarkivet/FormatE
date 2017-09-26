@@ -4,7 +4,8 @@
 | file extension           | pdf 
 | initialism              | Portable Document Format
 | content/media/MIME type | application/pdf, application/x-bzpdf, application/x-gzpdf, application/x-pdf
-
+| magic number            | %PDF
+| UTI                     | com.adobe.pdf 
 # component
 | specification | format
 | -------------| ------ 
@@ -28,6 +29,9 @@
 * [PDF/A-4](a.md)
 * [PDF/E-1](e.md)
 * [PDF/UA-1](ua.md)
+* [PDF/VT-1](vt.md)
+* [PDF/VT-2](vt.md)
+* [PDF/X-1](x.md)
 
 # validation
 ...
