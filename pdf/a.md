@@ -1,4 +1,4 @@
-# Adobe/ISO PDF/A
+# ISO PDF/A
 # specification
 | source | published | id
 | ------ | --------- | --
