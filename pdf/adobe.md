@@ -14,18 +14,19 @@
 ...
 
 # specification
-| version | published | source
-| --------| --------- | ----- 
-| 1.4     | 2001      | Adobe Systems
-| 1.7     | 2006      | ISO
-| 2.0     | 2017      | ISO
+| source                     | published | id
+| -------------------------- | --------- | --
+| Adobe Systems Incorporated | 2001      | PDF Reference (Edition 3)
+| ISO                        | 2008-07   | ISO 32000-1:2008 -- Document management -- Portable document format -- Part 1: PDF 1.7 (Edition 1, p. 747)
+| ISO                        | 2017-07   | ISO 32000-2:2017 -- Document management -- Portable document format -- Part 2: PDF 2.0 (Edition 1, p. 971)
 
 # subset
 * [PDF/A-1](a.md)
-* [PDF/A-2]
-* [PDF/A-3]
-* [PDF/A-4]
-* [PDF/E-1]
+* [PDF/A-2](a.md)
+* [PDF/A-3](a.md)
+* [PDF/A-4](a.md)
+* [PDF/E-1](e.md)
+* [PDF/UA-1](ua.md)
 
 # validation
 ...
