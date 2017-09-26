@@ -4,6 +4,14 @@
 | file extension | pdf 
 | initialism    | Portable Document Format
 
+# component
+| specification | format
+| -------------| ------ 
+| 1.4          |  
+
+# implementation
+...
+
 # specification
 | version | published | source
 | --------| --------- | ----- 
@@ -18,7 +26,5 @@
 * [PDF/A-4]
 * [PDF/E-1]
 
-# component
-| specification | format
-| -------------| ------ 
-| 1.4          |  
+# validation
+...
