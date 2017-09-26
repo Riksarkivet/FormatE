@@ -16,7 +16,7 @@
 # specification
 | source                     | published | id
 | -------------------------- | --------- | --
-| Adobe Systems Incorporated | 2001      | PDF Reference (Edition 3)
+| Adobe Systems Incorporated | 2001      | PDF Reference (Edition 3, p. 978)
 | ISO                        | 2008-07   | ISO 32000-1:2008 -- Document management -- Portable document format -- Part 1: PDF 1.7 (Edition 1, p. 747)
 | ISO                        | 2017-07   | ISO 32000-2:2017 -- Document management -- Portable document format -- Part 2: PDF 2.0 (Edition 1, p. 971)
 
