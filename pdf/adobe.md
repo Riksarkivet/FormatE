@@ -12,8 +12,17 @@
 | 1.4          |  
 
 # implementation
+## functionality
+...
 ## verification
 ...
+### reference implementation
+...
+### test file
+| third party | edited | self-created
+| ------------| ------ | ------------
+| ...         | ...    | ...
+
 
 # specification
 | source                     | published | reference
