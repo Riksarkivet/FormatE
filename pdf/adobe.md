@@ -1,5 +1,5 @@
 # Adobe/ISO PDF
-| Identifier               | value
+| identifier               | value
 | ----------------------- | -----
 | file extension           | pdf 
 | initialism              | Portable Document Format
