@@ -3,4 +3,4 @@
 | ----------------------- | -----
 | alias                   | bitmap
 | alias                   | bitmap image file
-| alias                   | DIB (Device Independent Bitmap)
+| alias                   | [DIB (Device Independent Bitmap)](../dib/microsoft.md)
