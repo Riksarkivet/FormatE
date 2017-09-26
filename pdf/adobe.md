@@ -29,6 +29,7 @@
 * [PDF/A-4](a.md)
 * [PDF/E-1](e.md)
 * [PDF/UA-1](ua.md)
+* [PDF/VCR-1](vcr.md)
 * [PDF/VT-1](vt.md)
 * [PDF/VT-2](vt.md)
 * [PDF/X-1](x.md)
