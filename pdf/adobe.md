@@ -1,8 +1,9 @@
 # Adobe/ISO PDF
-| Identifier     | value
-| ------------- | -----
-| file extension | pdf 
-| initialism    | Portable Document Format
+| Identifier               | value
+| ----------------------- | -----
+| file extension           | pdf 
+| initialism              | Portable Document Format
+| content/media/MIME type | application/pdf, application/x-bzpdf, application/x-gzpdf, application/x-pdf
 
 # component
 | specification | format
