@@ -1,4 +1,4 @@
-# ISO PDF/UA
+# PDF/UA
 # specification
 | source | published | reference
 | ------ | --------- | ---------
