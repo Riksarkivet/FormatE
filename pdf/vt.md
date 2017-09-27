@@ -1,4 +1,4 @@
-# ISO PDF/VT
+# PDF/VT
 # specification
 | source | published | reference
 | -------| --------- | ---------
