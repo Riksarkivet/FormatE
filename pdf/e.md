@@ -1,4 +1,4 @@
-# ISO PDF/E
+# PDF/E
 # specification
 | source | published         | reference
 | ------ | ----------------- | ---------
