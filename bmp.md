@@ -1,6 +1,6 @@
 # Microsoft: Bitmap File Format
 
-Could refer to [DIB (Device Independent Bitmap)](../dib.md).
+Could refer to [DIB (Device Independent Bitmap)](../master/dib.md).
 
 | identifier               | value
 | ----------------------- | -----
