@@ -1,4 +1,4 @@
-# Adobe/ISO PDF
+# PDF
 | identifier               | value
 | ----------------------- | -----
 | file extension           | pdf 
