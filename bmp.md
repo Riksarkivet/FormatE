@@ -1,4 +1,4 @@
-# Microsoft: Bitmap File Format
+# Bitmap File Format
 
 Could refer to [DIB (Device Independent Bitmap)](../master/dib.md).
 
@@ -6,3 +6,8 @@ Could refer to [DIB (Device Independent Bitmap)](../master/dib.md).
 | --------- | -----
 | alias     | bitmap
 | alias     | bitmap image file
+
+# specification
+| source | published         | reference
+| ------ | ----------------- | ---------
+| Microsoft
