@@ -1,6 +1,7 @@
 # CCITT 1-dimensional
-| source 
-| -------
+# specification
+| source | published         | reference
+| ------ | ----------------- | ---------
 | Comité Consultatif International Téléphonique et Télégraphique
 
 | identifier | value
