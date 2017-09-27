@@ -1,2 +1,2 @@
 # Microsoft:  Device Independent Bitmap
-Could refer to [BMP](../bmp/microsoft.md)
+Could refer to [BMP](../bmp.md)
