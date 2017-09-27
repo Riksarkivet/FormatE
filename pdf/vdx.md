@@ -1,4 +1,4 @@
-# ISO PDF/VDX
+# PDF/VDX
 # specification
 | source | published | reference
 | ------ | --------- | ---------
