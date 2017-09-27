@@ -1,2 +1,5 @@
-# Joint Photographic Experts Group: JPEG
-...
+# JPEG
+# specification
+| source | published         | reference
+| ------ | ----------------- | ---------
+| Joint Photographic Experts Group
