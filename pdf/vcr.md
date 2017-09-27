@@ -1,4 +1,4 @@
-# ISO PDF/VCR
+# PDF/VCR
 # specification
 | source | published | reference
 | ------ | --------- | ---------
