@@ -1,4 +1,7 @@
-# Comité Consultatif International Téléphonique et Télégraphique: 1-dimensional
+# CCITT 1-dimensional
+| source 
+| -------
+| Comité Consultatif International Téléphonique et Télégraphique
 
 | identifier | value
 | --------- | -----
