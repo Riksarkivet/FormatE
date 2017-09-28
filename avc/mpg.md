@@ -10,4 +10,4 @@
 # specification
 | source | published         | reference
 | ------ | ----------------- | ---------
-| 
+| ...
