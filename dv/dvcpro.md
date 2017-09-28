@@ -3,7 +3,8 @@
 | --------- | -----
 | alias     | D-7
 
-# DVCPRO25, DVCPRO50
+# DVCPRO25
+# DVCPRO50
 
 # specification
 | source | published | reference
