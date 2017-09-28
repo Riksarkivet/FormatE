@@ -2,6 +2,125 @@
 | identifier | value
 | --------- | -----
 | generally | DV25
+# overview
+<table>
+  <tr>
+    <th rowspan="2">DV</th>
+    <th rowspan="2">[interlaced](interlaced.md)</th>
+    <th rowspan="2">filter</th>
+    <th rowspan="2">compression</th>
+    <th rowspan="2">Mbit/s</th>
+    <th rowspan="2">subsampling</th>
+    <th colspan="2">bit depth</th>
+  </tr>
+  <tr>
+    <td>NTSC (60Hz 720x480)</td>
+    <td>PAL (50Hz 720x576)</td>
+    <td>chroma</td>
+    <td>luma</td>
+  </tr>
+  <tr>
+    <td colspan="2">A</td>
+    <td>B</td>
+    <td>C</td>
+    <td>D</td>
+    <td>E</td>
+    <td>F</td>
+    <td>G</td>
+    <td>H</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td rowspan="4"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 # container format
 
 # specification
