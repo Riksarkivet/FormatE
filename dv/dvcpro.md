@@ -4,6 +4,10 @@
 | alias     | D-7
 
 # DVCPRO25
+| identifier | value
+| --------- | -----
+| alias     | DVCPRO
+
 # DVCPRO50
 
 # specification
