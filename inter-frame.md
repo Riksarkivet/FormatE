@@ -1,4 +1,4 @@
-# Intra-frame
+# Inter-frame
 | identifier | value
 | --------- | -----
 | alias     | I-Frame
