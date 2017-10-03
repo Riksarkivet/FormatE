@@ -7,12 +7,12 @@
 | ----- | --------------------------- | ----------------------------------------------------------- | ------------- | ------ | ----------------------| -------------------- | ---------- | --------- |
 |       |                             |                                                             |               |        | *NTSC (60hz 720x480)* | *PAL (50Hz 720x576)* | *chroma*   | *luma*    |
 | basic | yes                         | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
-| [D-7](dvcpro.md) 25 | yes           | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:1:1                | 8-bit      | 8-bit     |
-| [D-7](dvcpro.md) 50 | yes           | ?                                                           | ?             | 50     | 4:2:2                 | 4:2:2                | ?          | ?         |
-| [D-7](dvcpro.md) 100/HD | yes       | ?                                                           | ?             | 40-100 | 4:2:2                 | 4:2:2                | ?          | ?         |
-| [D-7](dvcpro.md) Progressive | yes/no | ?                                                         | ?             | 25-50  | 4:2:0?                | 4:2:0?               | ?          | ?         |
-| [D-9](s-9.md) | yes                 | ?                                                           | ?             | 50     | 4:2:2                 | 4:2:2                | ?          | ?         |
-| [D-9](s-9.md) HD | ?                | ?                                                           | ?             | 100    | ?                     | ?                    | ?          | ?         |
+| [D-7](dv/dvcpro.md) 25 | yes           | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:1:1                | 8-bit      | 8-bit     |
+| [D-7](dv/dvcpro.md) 50 | yes           | ?                                                           | ?             | 50     | 4:2:2                 | 4:2:2                | ?          | ?         |
+| [D-7](dv/dvcpro.md) 100/HD | yes       | ?                                                           | ?             | 40-100 | 4:2:2                 | 4:2:2                | ?          | ?         |
+| [D-7](dv/dvcpro.md) Progressive | yes/no | ?                                                         | ?             | 25-50  | 4:2:0?                | 4:2:0?               | ?          | ?         |
+| [D-9](dv/s-9.md) | yes                 | ?                                                           | ?             | 50     | 4:2:2                 | 4:2:2                | ?          | ?         |
+| [D-9](dv/s-9.md) HD | ?                | ?                                                           | ?             | 100    | ?                     | ?                    | ?          | ?         |
 | Digital8 | ?                        | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
 | DV CAM | ?                          | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
 
