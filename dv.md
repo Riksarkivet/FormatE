@@ -10,8 +10,8 @@
 | basic                           | [LPCM](pcm.md)  | 2       | 44.1 kHz | 16-bit   | 706 kibit/s per channel, 1.4 Mibit/s stereo | no  | Accepts 44.1 kHz using "1394" I/O. Possible to lock audio using "1394" I/O.
 | basic                           | [PCM](pcm.md)   | 4       | 32 kHz   | 12-bit   | 384 kibit/s per channel, 1.5 Mibit/s per 4 channels | no  | Possible to lock audio using "1394" I/O. JVC Pro DV records audio locked at 32 kHz.
 | [D-7](dv/dvcpro.md) 25          | ?               | 2       | 48 kHz   | 16-bit   | ? | yes |
-| [D-7](dv/dvcpro.md) 25          | ?               | 1       | 32 kHz   | 12-bit   | ? | yes | Analog spund track.
-| [D-7](dv/dvcpro.md) 25          | ?               | 1       | 44.1 kHz | 16-bit   | ? | yes | Analog spund track.
+| [D-7](dv/dvcpro.md) 25          | ?               | 1       | 32 kHz   | 12-bit   | ? | yes | Analog sound track.
+| [D-7](dv/dvcpro.md) 25          | ?               | 1       | 44.1 kHz | 16-bit   | ? | yes | Analog sound track.
 | [D-7](dv/dvcpro.md) 50          | ?               | ?       | ?        | ?        | ? | ?   |
 | [D-7](dv/dvcpro.md) 100/HD      | ?               | ?       | ?        | ?         | ? | ?   |
 | [D-7](dv/dvcpro.md) Progressive | [PCM](pcm.md)   | 4       | 48 kHz   | 16-bit   | ? | ?   |
