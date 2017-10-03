@@ -3,123 +3,18 @@
 | --------- | -----
 | generally | DV25
 # overview
-<table>
-  <tr>
-    <th rowspan="2">DV</th>
-    <th rowspan="2">[interlaced](interlaced.md)</th>
-    <th rowspan="2">filter</th>
-    <th rowspan="2">compression</th>
-    <th rowspan="2">Mbit/s</th>
-    <th rowspan="2">subsampling</th>
-    <th colspan="2">bit depth</th>
-  </tr>
-  <tr>
-    <td>NTSC (60Hz 720x480)</td>
-    <td>PAL (50Hz 720x576)</td>
-    <td>chroma</td>
-    <td>luma</td>
-  </tr>
-  <tr>
-    <td colspan="2">A</td>
-    <td>B</td>
-    <td>C</td>
-    <td>D</td>
-    <td>E</td>
-    <td>F</td>
-    <td>G</td>
-    <td>H</td>
-    <td>I</td>
-  </tr>
-  <tr>
-    <td rowspan="4"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+| DV    | [interlaced](interlaced.md) | filter                                                       | compression   | Mbit/s | subsampling           | subsampling          | bit depth  | bit depth |
+| ----- | --------------------------- | ----------------------------------------------------------- | ------------- | ------ | ----------------------| -------------------- | ---------- | --------- |
+|       |                             |                                                             |               |        | *NTSC (60hz 720x480)* | *PAL (50Hz 720x576)* | *chroma*   | *luma*    |
+| basic | yes                         | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
+| [D-7](dvcpro.md) 25 | yes           | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:1:1                | 8-bit      | 8-bit     |
+| [D-7](dvcpro.md) 50 | yes           | ?                                                           | ?             | 50     | 4:2:2                 | 4:2:2                | ?          | ?         |
+| [D-7](dvcpro.md) 100/HD | yes       | ?                                                           | ?             | 40-100 | 4:2:2                 | 4:2:2                | ?          | ?         |
+| [D-7](dvcpro.md) Progressive | yes/no | ?                                                         | ?             | 25-50  | 4:2:0?                | 4:2:0?               | ?          | ?         |
+| [D-9](s-9.md) | yes                 | ?                                                           | ?             | 50     | 4:2:2                 | 4:2:2                | ?          | ?         |
+| [D-9](s-9.md) HD | ?                | ?                                                           | ?             | 100    | ?                     | ?                    | ?          | ?         |
+| Digital8 | ?                        | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
+| DV CAM | ?                          | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
 
 # container format
 
