@@ -1,4 +1,6 @@
 # PDF
+classification: [file format](file.md), [image format](image.md), [instruction format](instruction.md), [text format](text.md)
+
 | identifier               | value
 | ----------------------- | -----
 | file extension           | pdf 
