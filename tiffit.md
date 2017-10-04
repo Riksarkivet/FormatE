@@ -8,3 +8,6 @@
 | classification
 | --------------
 | [file format](file.md)
+
+## specification
+ISO 12639:1998: Graphic technology -- Prepress digital data exchange -- Tag image file format for image technology (TIFF/IT) TIFF/IT-P1 ISO 12639:2004: Graphic technology -- Prepress digital data exchange -- Tag image file format for image technology (TIFF/IT) TIFF/IT P2
