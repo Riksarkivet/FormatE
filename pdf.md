@@ -3,17 +3,17 @@
 | identifier | value
 | ---------- | -----
 | alias      | [Portable Document Format](#portable-document-format)
-| alias      | [PDF/A-1](pdf/a.md)
-| alias      | [PDF/A-2](pdf/a.md)
-| alias      | [PDF/A-3](pdf/a.md)
-| alias      | [PDF/A-4](pdf/a.md)
-| alias      | [PDF/E-1](pdf/e.md)
-| alias      | [PDF/UA-1](pdf/ua.md)
-| alias      | [PDF/VCR-1](pdf/vcr.md)
-| alias      | [PDF/VDX-2005](pdf/vdx.md)
-| alias      | [PDF/VT-1](pdf/vt.md)
-| alias      | [PDF/VT-2](pdf/vt.md)
-| alias      | [PDF/X-1](pdf/x.md)
+| alias      | [PDF/A-1](pdfa.md)
+| alias      | [PDF/A-2](pdfa.md)
+| alias      | [PDF/A-3](pdfa.md)
+| alias      | [PDF/A-4](pdfa.md)
+| alias      | [PDF/E-1](pdfe.md)
+| alias      | [PDF/UA-1](pdfua.md)
+| alias      | [PDF/VCR-1](pdfvcr.md)
+| alias      | [PDF/VDX-2005](pdfvdx.md)
+| alias      | [PDF/VT-1](pdfvt.md)
+| alias      | [PDF/VT-2](pdfvt.md)
+| alias      | [PDF/X-1](pdfx.md)
 
 # Portable Document Format
 | classification
