@@ -8,3 +8,5 @@
 | classification
 | --------------
 | [file format](file.md)
+## specification
+TIFF 6.0
