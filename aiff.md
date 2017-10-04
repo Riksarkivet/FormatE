@@ -1,5 +1,9 @@
+# aiff
+
 # Audio Interchange File Format
-# specification
+classification: ...
+
+## specification
 | source | published         | reference
 | ------ | ----------------- | ---------
 | Apple

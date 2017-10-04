@@ -1,4 +1,10 @@
-# Comma-separated values
+# csv
+classification: [database format](database.md), [syntax format](syntax.md)
+
+| identifier     | value
+| -------------- | -----
+| alias          | Comma-separated values
+
 # specification
 | source | published | reference
 | ------ | --------- | ---------

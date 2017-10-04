@@ -1,11 +1,17 @@
 # msg
 
-| identifier     | value
+| identifier    | value
 | ------------- | -----
-| alias         | MS-OXMSG
-| alias         | Outlook Item File Format
+| alias         | [Outlook Item File Format](#outlook-item-file-format)
 
-# specification
+# Outlook Item File Format
+
+| identifier     | value
+| -------------- | -----
+| alias          | MS-OXMSG
+| file extension | msg
+
+## specification
 | source    | published         | reference
 | --------- | ----------------- | ---------
 | Microsoft | 20170914          | [MS-OXMSG]: Outlook Item (.msg) File Format (v20160914)

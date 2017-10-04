@@ -1,5 +1,14 @@
+# asf
+
 # Advanced Systems Format
-# specification
+classification: ...
+
+| identifier | value
+| ---------- | -----
+| formerly   | Advanced Streaming Format
+| formerly   | Active Streaming Format
+
+## specification
 | source | published         | reference
 | ------ | ----------------- | ---------
 | Microsoft

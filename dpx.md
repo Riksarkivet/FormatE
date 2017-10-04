@@ -1,5 +1,8 @@
+# dpx
+| identifier     | value
+| -------------- | -----
+| alias          | [Digital Picture Exchange](#digital-picture-exchange)
+
 # Digital Picture Exchange
-# specification
-| source | published | reference
-| ------ | --------- | ---------
-| SMPTE
+classification: [file format](file.md)
+

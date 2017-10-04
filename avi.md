@@ -1,5 +1,9 @@
+# avi
+
 # Audio Video Interleave
-# specification
+classification: [file format](file.md)
+
+## specification
 | source | published         | reference
 | ------ | ----------------- | ---------
 | Microsoft

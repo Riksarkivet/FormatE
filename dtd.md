@@ -1,5 +1,12 @@
-# Document type definition
-# specification
+# dtd
+| identifier     | value
+| -------------- | -----
+| alias          | [Document Type Definition](#document-type-definition)
+
+# Document Type Definition
+classification: [markup format](markup.md)
+
+## specification
 | source | published | reference
 | ------ | --------- | ---------
 | W3C Extensible Markup Language (XML) 1.0 (Fifth Edition), § 2.8 Prolog and Document Type Declaration

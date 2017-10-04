@@ -1,6 +1,12 @@
+# dbk
+| identifier     | value
+| -------------- | -----
+| alias          | DocBook
+
 # DocBook
-Markup language
-# specification
+classification: [markup format](markup.md)
+
+## specification
 | source | published         | reference
 | ------ | ----------------- | ---------
 | OASIS

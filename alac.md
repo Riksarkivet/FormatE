@@ -1,4 +1,7 @@
 # alac
+
+
+# Apple Lossless Audio Codec
 classification: [audio coding format](audio.md), [lossless compression format](compression.md)
 
 | identifier     | value
@@ -6,5 +9,4 @@ classification: [audio coding format](audio.md), [lossless compression format](c
 | alias          | ALAC
 | alias          | ALE
 | alias          | Apple Lossless
-| alias          | Apple Lossless Audio Codec
 | alias          | Apple Lossless Encoder

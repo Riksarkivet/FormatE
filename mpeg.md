@@ -1,12 +1,17 @@
 # mpeg
+
+| identifier     | value
+| -------------- | -----
+| alias          | [Moving Picture Experts Group](#moving-picture-experts-group)
+
+# Moving Picture Experts Group
 classification: [specification](specification.md)
 
 | identifier     | value
 | -------------- | -----
 | alias          | MPEG
-| alias          | Moving Picture Experts Group
 
-# overview
+## overview
 | MPEG | part | format
 | ---- | ---- | ------
 | 1    | 1    | MPEG-PS

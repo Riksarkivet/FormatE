@@ -1,7 +1,8 @@
-# MXF
+# mxf
 classification: [container format](container.md)
 
 | identifier     | value
 | -------------- | -----
-| abbreviation   | Material eXchange Format
-| file extension | odt
+|                | mxf
+| alias          | Material eXchange Format
+| file extension | mxf

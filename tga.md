@@ -1,6 +1,13 @@
-# Truevision Graphics Adapter
+# tga
+
+| identifier | value
+| ---------- | -----
+| alias      | [TARGA](#targa)
+
+# TARGA
 classification: [file format](file.md)
 
 | identifier | value
 | ---------- | -----
-| TARGA      | Truevision Advanced Raster Graphics Adapter
+| alias      | Truevision Graphics Adapter
+| alias      | Truevision Advanced Raster Graphics Adapter

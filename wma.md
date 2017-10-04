@@ -1,2 +1,6 @@
-# Windows Media Audio
+# wma
 classification: [audio coding format](audio.md)
+
+| identifier     | value
+| -------------- | -----
+| alias          | Windows Media Audio

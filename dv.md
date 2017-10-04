@@ -1,9 +1,15 @@
-# Digital Video
+# dv
+
 | identifier | value
-| --------- | -----
-| generally | DV25
-# overview
-## audio coding
+| ---------- | -----
+| alias      | [Digital Video](#digital-video)
+| alias      | [DV](#digital-video)25
+
+# Digital Video
+classification: [lossy coding format](compression.md), [video coding format](video.md)
+
+## overview
+### audio coding
 | DV                              | encoding        | channel | sampling | bitdepth | bitrate | locked | comment
 | ------------------------------- | --------------- | ------- | -------- | -------- | ------- | ------ | -------
 | basic                           | [LPCM](lpcm.md) | 2       | 48 kHz   | 16-bit   | 768 kibit/s per channel, 1.5 Mibit/s stereo | no  | Possible to lock audio using "1394" I/O. JVC Pro DV records audio locked at 48 kHz.
@@ -24,7 +30,7 @@
 | DV CAM                          | ?               | 2       | 44.1 kHz   | 16-bit   | ? | yes | Accepts 44.1 kHz using "1394" I/O. 
 | DV CAM                          | ?               | 4       | 32 kHz   | 12-bit   | ? | yes |
 
-## video coding
+### video coding
 | DV    | [interlaced](interlaced.md) | filter                                                       | compression   | Mbit/s | subsampling           | subsampling          | bit depth  | bit depth |
 | ----- | --------------------------- | ----------------------------------------------------------- | ------------- | ------ | ----------------------| -------------------- | ---------- | --------- |
 |       |                             |                                                             |               |        | *NTSC (60hz 720x480)* | *PAL (50Hz 720x576)* | *chroma*   | *luma*    |
@@ -38,9 +44,9 @@
 | Digital8 | ?                        | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
 | DV CAM | ?                          | [intra-frame](intra-frame.md), [inter-field](inter-frame.md) | [DCT](dct.md) | 25     | 4:1:1                 | 4:2:0                | 8-bit      | 8-bit     |
 
-# container format
+## container format
 
-# specification
+## specification
 Relevant specifications are 1-2, 4-5?[1]
 
 | source | published | reference | summary
@@ -56,5 +62,5 @@ Relevant specifications are 1-2, 4-5?[1]
 | IEC    | 20010322  | IEC 61834-9 -- Recording - Helical-scan digital video cassette recording system using 6,35 mm magnetic tape for consumer use (525-60, 625-50, 1125-60 and 1250-50 systems) - Part 9: DVB format (v. 1.0) | Specifies the content, format and recording method for the data blocks forming the helical records on tape containing audio, video and system data. Describes the specifications for the recording of single DVB programmes. The DVB data is delivered to the digital video cassette recorder via a digital interface or by a built-in tuner (IRD). The DVB data consist of an MPEG2 transport stream containing one or more programmes. (81 pages)
 | IEC    | 20010222  | IEC 61834-10 -- Recording - Helical-scan digital video cassette recording system using 6,35 mm magnetic tape for consumer use (525-60, 625-50, 1125-60 and 1250-50 systems) - Part 10: DTV format (v. 1.0) | Specifies the content, format and recording method for the data blocks forming the helical records on tape containing audio, video and system data. Describes the specifications for the recording of single DTV programmes. The contents of the corrigendum of June 2001 have been included in this copy. (81 pages)
 | IEC    | 20080213  | IEC 61834-11 -- Recording - Helical-scan digital video cassette recording system using 6,35 mm magnetic tape for consumer use (525-60, 625-50, 1125-60 and 1250-50 systems) - Part 11: HDV format for 1080i and 720p systems (v. 1.0) | It specifies the content, format, and recording method of data blocks containing video, audio, and system data on the helical scan digital video cassettes using 6,35 mm tape as defined in IEC 61834-1 for recording MPEG-2 streaming HD signals. The main specifications shall be as defined in IEC 61834-9 and IEC 61834-10. Other information, such as details about MPEG-2 stream descriptors, trick play data, system data, etc., are defined in Clause 7. (108 pages)
-# source
+## source
 [1] Cf `Admin J. Wilt, the DV, "DVCAM & DVCPRO Formats,  Standards Documents", http://adamwilt.com/DV-tech.html#Standards (20170227).` and ` Library of Congress, "Sustainability of Digital Formats: Planning for Library of Congress Collections" § Format Description Categories, Digital Video Encoding (DV, DVCAM, DVCPRO), https://digitalpreservation.gov/formats/fdd/fdd000183.shtml#specs (20170227).`

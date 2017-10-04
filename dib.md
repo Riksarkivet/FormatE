@@ -1,6 +1,13 @@
+# dib
+| identifier     | value
+| -------------- | -----
+| alias          | [BMP](../master/bmp.md)
+| alias          | [Device Independent Bitmap](#device-independent-bitmap)
+
 # Device Independent Bitmap
-Could refer to [BMP](../master/bmp.md)
-# specification
+classification: ...
+
+## specification
 | source | published | reference
 | ------ | --------- | ---------
 | Microsoft

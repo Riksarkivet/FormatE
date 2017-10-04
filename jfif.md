@@ -1,6 +1,9 @@
-# JFIF
-classification: [file format](file.md)
+# jfif
 
 | identifier     | value
 | -------------- | -----
-| alias          | JPEG File Interchange Format
+| alias          | [JPEG File Interchange Format](#jpeg-file-interchange-format)
+
+# JPEG File Interchange Format
+classification: [file format](file.md)
+

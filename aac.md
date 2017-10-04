@@ -1,4 +1,8 @@
+# aac
+
 # Advanced Audio Coding
+classification: [audio coding format](audio.md)
+
 # specification
 | source | published         | reference
 | ------ | ----------------- | ---------

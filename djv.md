@@ -1,5 +1,10 @@
+# djv
+| identifier     | value
+| -------------- | -----
+| alias          | DjVu
 # DjVu
-# specification
+classification: ...
+## specification
 | source | published         | reference
 | ------ | ----------------- | ---------
 | AT&T Labs – Research
