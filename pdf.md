@@ -34,17 +34,17 @@ classification: [file format](file.md), [image format](image.md), [instruction f
 | ISO                        | 2017-07   | ISO 32000-2:2017 -- Document management -- Portable document format -- Part 2: PDF 2.0 (Edition 1, p. 971)
 
 # subset
-* [PDF/A-1](a.md)
-* [PDF/A-2](a.md)
-* [PDF/A-3](a.md)
-* [PDF/A-4](a.md)
-* [PDF/E-1](e.md)
-* [PDF/UA-1](ua.md)
-* [PDF/VCR-1](vcr.md)
-* [PDF/VDX-2005](vdx.md)
-* [PDF/VT-1](vt.md)
-* [PDF/VT-2](vt.md)
-* [PDF/X-1](x.md)
+* [PDF/A-1](pdf/a.md)
+* [PDF/A-2](pdf/a.md)
+* [PDF/A-3](pdf/a.md)
+* [PDF/A-4](pdf/a.md)
+* [PDF/E-1](pdf/e.md)
+* [PDF/UA-1](pdf/ua.md)
+* [PDF/VCR-1](pdf/vcr.md)
+* [PDF/VDX-2005](pdf/vdx.md)
+* [PDF/VT-1](pdf/vt.md)
+* [PDF/VT-2](pdf/vt.md)
+* [PDF/X-1](pdf/x.md)
 
 # validation
 ...
