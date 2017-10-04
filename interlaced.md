@@ -9,4 +9,6 @@
 | incorrect  | [Intra-frame](intra-frame.md)
 
 ## image frame
-An interlaced image frame consists of two fields. One field contains the even rows of the image frame, while the other field contains the odd rows of the image frame. The fields together compose the image frame.
+An interlaced video frame consists of two fields. One field contains the even
+ rows of the video frame, while the other field contains the odd rows of the
+ video frame. The fields together compose the video frame.

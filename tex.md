@@ -1,2 +1,5 @@
 #  τέχνη (ΤΕΧΝΗ)
-classification: [markup format](markup.md)
+
+| classification
+| --------------
+| [markup format](markup.md)

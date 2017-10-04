@@ -1,7 +1,14 @@
 # html
 
+| identifier     | value
+| -------------- | -----
+| alias          | [Hypertext Markup Language](#hypertext-markup-language)
+
 # Hypertext Markup Language
-classification: [markup format](markup.md), [text format](text.md)
+| classification
+| --------------
+| [markup format](markup.md)
+| [text format](text.md)
 
 | identifier     | value
 | -------------- | -----

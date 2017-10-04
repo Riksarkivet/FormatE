@@ -1,7 +1,11 @@
 # pdfe
 
+| identifier     | value
+| -------------- | -----
+| alias          | [PDF/E](#pdf/e)
+
 # PDF/E
-# specification
+## specification
 | source | published         | reference
 | ------ | ----------------- | ---------
 | ISO    | 2008-05           | ISO 24517-1:2008 -- Document management -- Engineering document format using PDF -- Part 1: Use of PDF 1.6 (PDF/E-1) (Edition 1, pages 26)

@@ -1,10 +1,13 @@
 # rtf
+
 | identifier     | value
 | -------------- | -----
 | alias          | [Rich Text Format](#rich-text-format)
 
 # Rich Text Format
-classification: [text format](text.md)
+| classification
+| --------------
+| [text format](text.md)
 
 ## specification
 | source    | published         | reference

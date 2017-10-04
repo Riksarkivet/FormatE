@@ -1,5 +1,13 @@
 # utf-32
-classification: [character code format](character.md)
+
 | identifier     | value
 | -------------- | -----
-| alias          | Unicode Transformation Format 32-bit
+| alias          | [Unicode Transformation Format 32-bit](#unicode-transformation-format-32-bit)
+
+# Unicode Transformation Format 32-bit
+
+| classification
+| --------------
+| [character code format](character.md)
+
+

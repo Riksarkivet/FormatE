@@ -1,7 +1,11 @@
-# DEFLATE
+# deflate
+
 | identifier     | value
 | -------------- | -----
-| alias          | DEFLATE
+| alias          | [DEFLATE](#deflate)
 
 # DEFLATE
-classification: [data coding format](data.md), [lossless coding format](compression.md)
+| classification
+| --------------
+| [data coding format](data.md)
+| [lossless coding format](compression.md)

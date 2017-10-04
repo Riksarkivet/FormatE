@@ -5,7 +5,10 @@
 | alias          | [Electronic Publication](#electronic-publication)
 
 # Electronic Publication
-classification: [markup format](markup.md), [text format](text.md)
+| classification
+| --------------
+| [markup format](markup.md)
+| [text format](text.md)
 
 | identifier     | value
 | -------------- | -----

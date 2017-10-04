@@ -1,12 +1,15 @@
 # dsv
+
 | identifier     | value
 | -------------- | -----
-| subset         | [CSV](csv.md)
+| alias          | [CSV](csv.md)
 | alias          | [Delimiter-separated values](#delimiter-separated-values)
-| subset         | [TSV](tsv.md)
+| alias          | [TSV](tsv.md)
 
 # Delimiter-separated values
-classification: [abstract format](abstract.md)
+| classification
+| --------------
+| [specification format](specification.md)
 Concept of format to "*... store two-dimensional arrays of data by separating the values in each row with specific delimiter characters.*".[1]
 
 ## source

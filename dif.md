@@ -1,5 +1,13 @@
 # dif
 
+| identifier     | value
+| -------------- | -----
+| alias          | [Digital Interface Format](#digital-interface-format)
+
 # Digital Interface Format
-The file format for [DV](dv.md).
+| classification
+| --------------
+| [file format](file.md)
+
+The file format for [DV](dv.md)
 http://www.digitalpreservation.gov/formats/fdd/fdd000173.shtml

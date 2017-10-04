@@ -1,8 +1,18 @@
 # icc
-classification: ...
+
+| identifier     | value
+| -------------- | -----
+| alias          | [International Color Consortium](#international-color-consortium)
+
+# International Color Consortium
 
 | identifier     | value
 | -------------- | -----
 | alias          | ICC
-| alias          | ICC profile
-| alias          | International Color Consortium
+| alias          | [ICC profile](#icc-profile)
+
+## ICC profile
+| classification
+| --------------
+| ...
+

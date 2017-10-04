@@ -7,6 +7,9 @@
 | alias          | [Relocatable Object Module Format](omf.md)
 
 # Object file format
+| classification
+| --------------
+| [binary format](binary.md)
 
 | identifier     | value
 | -------------- | -----
@@ -14,7 +17,9 @@
 | file extension | obj
 
 # Wavefront .obj file
-classification: [text format](text.md)
+| classification
+| --------------
+| [text format](text.md)
 
 | identifier     | value
 | -------------- | -----

@@ -1,7 +1,14 @@
 # xsd
-classification: [markup format](markup.md)
 
 | identifier     | value
 | -------------- | -----
-| alias          | XML Schema
-| file extension | moxsd
+| alias          | [XML Schema](#xml-schema)
+
+# XML Schema
+| classification
+| --------------
+| [markup format](markup.md)
+
+| identifier     | value
+| -------------- | -----
+| file extension | xsd

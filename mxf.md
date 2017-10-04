@@ -1,8 +1,14 @@
 # mxf
-classification: [container format](container.md)
 
 | identifier     | value
 | -------------- | -----
-|                | mxf
-| alias          | Material eXchange Format
+| alias          | [Material eXchange Format](#material-exchange-format)
+
+# Material eXchange Format
+| classification
+| --------------
+| [container format](container.md)
+
+| identifier     | value
+| -------------- | -----
 | file extension | mxf

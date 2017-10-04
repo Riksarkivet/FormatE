@@ -5,7 +5,9 @@
 | alias          | [QuickTime File Format](#quicktime-file-format)
 
 # QuickTime File Format
-classification: [container format](container.md)
+| classification
+| --------------
+| [container format](container.md)
 
 | identifier     | value
 | -------------- | -----

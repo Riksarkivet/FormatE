@@ -1,11 +1,27 @@
 # pdf
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Portable Document Format](#portable-document-format)
+| identifier | value
+| ---------- | -----
+| alias      | [Portable Document Format](#portable-document-format)
+| alias      | [PDF/A-1](pdf/a.md)
+| alias      | [PDF/A-2](pdf/a.md)
+| alias      | [PDF/A-3](pdf/a.md)
+| alias      | [PDF/A-4](pdf/a.md)
+| alias      | [PDF/E-1](pdf/e.md)
+| alias      | [PDF/UA-1](pdf/ua.md)
+| alias      | [PDF/VCR-1](pdf/vcr.md)
+| alias      | [PDF/VDX-2005](pdf/vdx.md)
+| alias      | [PDF/VT-1](pdf/vt.md)
+| alias      | [PDF/VT-2](pdf/vt.md)
+| alias      | [PDF/X-1](pdf/x.md)
 
 # Portable Document Format
-classification: [file format](file.md), [image format](image.md), [instruction format](instruction.md), [text format](text.md)
+| classification
+| --------------
+| [file format](file.md)
+| [image format](image.md)
+| [instruction format](instruction.md)
+| [text format](text.md)
 
 | identifier              | value
 | ----------------------- | -----
@@ -16,8 +32,8 @@ classification: [file format](file.md), [image format](image.md), [instruction f
 
 ## component
 | specification | format
-| -------------| ------ 
-| 1.4          |  
+| ------------- | ------
+| 1.4           |
 
 ## implementation
 ### functionality
@@ -37,19 +53,6 @@ classification: [file format](file.md), [image format](image.md), [instruction f
 | Adobe Systems Incorporated | 2001      | PDF Reference (Edition 3, p. 978)
 | ISO                        | 2008-07   | ISO 32000-1:2008 -- Document management -- Portable document format -- Part 1: PDF 1.7 (edition 1, pages 747)
 | ISO                        | 2017-07   | ISO 32000-2:2017 -- Document management -- Portable document format -- Part 2: PDF 2.0 (edition 1, pages 971)
-
-## subset
-* [PDF/A-1](pdf/a.md)
-* [PDF/A-2](pdf/a.md)
-* [PDF/A-3](pdf/a.md)
-* [PDF/A-4](pdf/a.md)
-* [PDF/E-1](pdf/e.md)
-* [PDF/UA-1](pdf/ua.md)
-* [PDF/VCR-1](pdf/vcr.md)
-* [PDF/VDX-2005](pdf/vdx.md)
-* [PDF/VT-1](pdf/vt.md)
-* [PDF/VT-2](pdf/vt.md)
-* [PDF/X-1](pdf/x.md)
 
 ## validation
 ...

@@ -1,6 +1,12 @@
 # wmv
-classification: [video coding format](video.md)
 
 | identifier     | value
 | -------------- | -----
-| alias          | Windows Media Video
+| alias          | [Windows Media Video](#windows-media-video)
+
+# Windows Media Video
+
+| classification
+| --------------
+| [video coding format](video.md)
+

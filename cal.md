@@ -1,7 +1,14 @@
 # cal
 
+| identifier     | value
+| -------------- | -----
+| alias          | [CALS raster](#cals-raster)
+
 # CALS raster
-classification: [file format](file.md), [image coding format](image.md)
+| classification
+| --------------
+| [file format](file.md)
+| [image coding format](image.md)
 
 ## specification
 | source | published         | reference

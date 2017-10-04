@@ -1,9 +1,17 @@
 # x3d
-classification: [markup format](markup.md)
 
 | identifier     | value
 | -------------- | -----
-| alias          | Extensible 3D Graphics
+| alias          | [Extensible 3D Graphics](#extensible-3d-graphics)
+
+# Extensible 3D Graphics
+
+| classification
+| --------------
+| [markup format](markup.md)
+
+| identifier     | value
+| -------------- | -----
 | file extension | x3d
 | file extension | x3dv
 | file extension | x3db

@@ -1,9 +1,14 @@
 # djv
+
 | identifier     | value
 | -------------- | -----
-| alias          | DjVu
+| alias          | [DjVu](#djvu)
+
 # DjVu
-classification: ...
+| classification
+| --------------
+| ...
+
 ## specification
 | source | published         | reference
 | ------ | ----------------- | ---------

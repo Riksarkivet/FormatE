@@ -1,7 +1,11 @@
 # pdfx
 
+| identifier     | value
+| -------------- | -----
+| alias          | [PDF/X](#pdf/x)
+
 # PDF/X
-# specification
+## specification
 | source | published | reference
 | ------ | --------- | --------- 
 | ISO    | 2001-12   | ISO 15930-1:2001 -- Graphic technology -- Prepress digital data exchange -- Use of PDF -- Part 1: Complete exchange using CMYK data (PDF/X-1 and PDF/X-1a) (Edition 1, pages 17)

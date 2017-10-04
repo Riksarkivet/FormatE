@@ -1,9 +1,15 @@
 # csv
-classification: [database format](database.md), [syntax format](syntax.md)
 
-| identifier     | value
-| -------------- | -----
-| alias          | Comma-separated values
+| identifier | value
+| ---------- | -----
+| alias      | Comma-separated values
+| alias      | [DSV](dsv.md)
+
+# Comma-separated values
+| classification
+| --------------
+| [database format](database.md)
+| [syntax format](syntax.md)
 
 # specification
 | source | published | reference

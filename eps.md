@@ -5,7 +5,9 @@
 | alias          | [Encapsulated PostScript](#encapsulated-postscript)
 
 # Encapsulated PostScript
-classification: [vector image format](vector.md)
+| classification
+| --------------
+| [vector image format](vector.md)
 
 | identifier     | value
 | -------------- | -----

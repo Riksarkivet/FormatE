@@ -1,2 +1,5 @@
 # vp8
-classification: [video coding format](audio.md)
+
+| classification
+| --------------
+| [video coding format](audio.md)

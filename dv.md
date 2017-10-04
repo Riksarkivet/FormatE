@@ -6,7 +6,10 @@
 | alias      | [DV](#digital-video)25
 
 # Digital Video
-classification: [lossy coding format](compression.md), [video coding format](video.md)
+| classification
+| --------------
+| [lossy coding format](compression.md)
+| [video coding format](video.md)
 
 ## overview
 ### audio coding

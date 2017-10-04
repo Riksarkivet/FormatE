@@ -5,6 +5,9 @@
 | alias         | [Outlook Item File Format](#outlook-item-file-format)
 
 # Outlook Item File Format
+| classification
+| --------------
+| [binary format](binary.md)
 
 | identifier     | value
 | -------------- | -----

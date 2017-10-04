@@ -5,7 +5,9 @@
 | alias          | [Matroska](#Matroska)
 
 # Matroska
-classification: [container format](container.md)
+| classification
+| --------------
+| [container format](container.md)
 
 | identifier     | value
 | -------------- | -----

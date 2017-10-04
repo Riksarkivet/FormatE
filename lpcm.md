@@ -6,7 +6,10 @@
 | alias          | [Pulse-Code Modulation](pcm.md)
 
 # Linear Pulse-Code Modulation
-classification: [audio coding format](audio.md), [lossless compression format](compression.md)
+| classification
+| --------------
+| [audio coding format](audio.md)
+| [lossless compression format](compression.md)
 
 | identifier              | value
 | ----------------------- | -----

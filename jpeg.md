@@ -6,7 +6,10 @@
 
 # Joint Photographic Experts Group
 ## DCT
-classification: [image format](image.md), [lossy compression format](compression.md)
+| classification
+| --------------
+| [image format](image.md)
+| [lossy compression format](compression.md)
 
 | identifier     | value
 | -------------- | -----

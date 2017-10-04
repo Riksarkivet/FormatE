@@ -5,7 +5,9 @@
 | alias          | [Moving Picture Experts Group](#moving-picture-experts-group)
 
 # Moving Picture Experts Group
-classification: [specification](specification.md)
+| classification
+| --------------
+| [specification](specification.md)
 
 | identifier     | value
 | -------------- | -----

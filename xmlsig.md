@@ -5,7 +5,10 @@
 | alias      | [XML Signature](xmlsig.md)
 
 # XML Signature
-classification: [markup format](markup.md)
+| classification
+| --------------
+| [markup format](markup.md)
+
 | identifier | value
 | ---------- | -----
 | alias      | XML-DSig

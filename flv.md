@@ -1,7 +1,13 @@
 # fkv
 
+| identifier     | value
+| -------------- | -----
+| alias          | [Flash Video](#flash-video)
+
 # Flash Video
-classification: [container format](container.md)
+| classification
+| --------------
+| [container format](container.md)
 
 | identifier     | value
 | -------------- | -----

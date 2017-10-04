@@ -1,5 +1,9 @@
 # unicode
-classification: [specification](specification.md)
+
+| classification
+| --------------
+| [specification](specification.md)
+
 | identifier     | value
 | -------------- | -----
 | alias          | Unified Encoding

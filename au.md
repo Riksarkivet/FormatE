@@ -1,7 +1,13 @@
 # au
 
+| identifier     | value
+| -------------- | -----
+| alias          | [Au](#au)
+
 # Au
-classification: ...
+| classification
+| --------------
+| ...
 
 ## specification
 | source | published         | reference

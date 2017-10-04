@@ -5,7 +5,9 @@
 | alias      | [TARGA](#targa)
 
 # TARGA
-classification: [file format](file.md)
+| classification
+| --------------
+| [file format](file.md)
 
 | identifier | value
 | ---------- | -----

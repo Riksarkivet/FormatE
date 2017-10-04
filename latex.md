@@ -1,6 +1,10 @@
 # latex
-classification: [markup format](markup.md)
 
 | identifier     | value
 | -------------- | -----
-| alias          | LaTeX
+| alias          | [LaTeX](#latex)
+
+# LaTeX
+| classification
+| --------------
+| [markup format](markup.md)

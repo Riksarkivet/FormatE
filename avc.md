@@ -1,5 +1,9 @@
 # avc
 
+| identifier     | value
+| -------------- | -----
+| alias          | [Advanced Video Coding](#advanced-video-coding)
+
 # Advanced Video Coding
 | identifier     | value
 | -------------- | -----

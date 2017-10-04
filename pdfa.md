@@ -1,7 +1,11 @@
 # pdfa
 
+| identifier     | value
+| -------------- | -----
+| alias          | [PDF/A](#pdf/a)
+
 # PDF/A
-# specification
+## specification
 | source | published | reference
 | ------ | --------- | ---------
 | ISO    | 2005-10   | ISO 19005-1:2005 -- Document management -- Electronic document file format for long-term preservation -- Part 1: Use of PDF 1.4 (PDF/A-1) (Edition 1, pages 29)
@@ -11,8 +15,8 @@
 | ISO    | 2012-10   | ISO 19005-3:2012 -- Document management -- Electronic document file format for long-term preservation -- Part 3: Use of ISO 32000-1 with support for embedded files (PDF/A-3) (Edition 1, pages 42)
 | ISO    | Under development | ISO/CD 19005-4 -- Document management -- Electronic document file format for long-term preservation -- Part 4: Use of ISO 32000-2 (PDF/A-NEXT)
 
-# implementation
-## verification
+## implementation
+### verification
 ...
-# validation
+## validation
 * veraPDF

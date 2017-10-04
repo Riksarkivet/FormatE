@@ -5,6 +5,11 @@
 | alias       | [DV Cassette PROfessional](#dv-cassette-professional)
 
 # DV Cassette PROfessional
+| classification
+| --------------
+| [lossy coding format](compression.md)
+| [video coding format](video.md)
+
 | identifier | value
 | ---------- | -----
 | alias      | D-7

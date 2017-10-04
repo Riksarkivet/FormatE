@@ -5,7 +5,10 @@
 | alias          | [ProRes](#ProRes)
 
 # ProRes
-classification: [lossy coding format](compression.md), [video coding format](video.md)
+| classification
+| --------------
+| [lossy coding format](compression.md)
+| [video coding format](video.md)
 
 ## 422
 ..

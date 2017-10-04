@@ -1,9 +1,15 @@
 # aac
 
-# Advanced Audio Coding
-classification: [audio coding format](audio.md)
+| identifier     | value
+| -------------- | -----
+| alias          | [Advanced Audio Coding](#advanced-audio-coding)
 
-# specification
+# Advanced Audio Coding
+| classification
+| --------------
+| [audio coding format](audio.md)
+
+## specification
 | source | published         | reference
 | ------ | ----------------- | ---------
 | Bell Labs

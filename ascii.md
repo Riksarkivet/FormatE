@@ -1,7 +1,13 @@
 # ascii
 
+| identifier     | value
+| -------------- | -----
+| alias          | [American Standard Code for Information Interchange](#american-standard-code-for-information-interchange)
+
 # American Standard Code for Information Interchange
-classification: [character coding format](character.md)
+| classification
+| --------------
+| [character coding format](character.md)
 
 | identifier | value
 | ---------- | -----
