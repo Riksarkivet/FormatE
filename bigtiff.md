@@ -1,6 +1,8 @@
 # biggtiff
-| identifier     | value
-| -------------- | -----
-| alias          | [BigTIFF](#bigtiff)
+
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [BigTIFF](#bigtiff)
 
 # BigTIFF

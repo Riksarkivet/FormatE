@@ -1,8 +1,9 @@
 # gif
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Graphics Interchange Format](#graphics-interchange-format)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Graphics Interchange Format](#graphics-interchange-format)
 
 # Graphics Interchange Format
 | classification
@@ -11,7 +12,8 @@
 | [lossless compression format](compression.md)
 | [image format](image.md)
 
-| identifier     | value
-| -------------- | -----
-| alias          | GIF
-| file extension | gif
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | GIF
+| file extension    | gif

@@ -1,15 +1,16 @@
 # djv
 
-| identifier     | value
-| -------------- | -----
-| alias          | [DjVu](#djvu)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [DjVu](#djvu)
 
 # DjVu
 | classification
 | --------------
 | ...
 
-## specification
-| source | published         | reference
-| ------ | ----------------- | ---------
+## source
+| reference | note
+| --------- | ----
 | AT&T Labs – Research

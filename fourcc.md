@@ -1,14 +1,16 @@
 # fourcc
 
-| identifier     | value
-| -------------- | -----
-| alias          | [FourCC](#fourcc)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [FourCC](#fourcc)
 
 # FourCC
 | classification
 | --------------
 | ...
 
-| identifier     | value
-| -------------- | -----
-| alias          | Four-Character Code
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | Four-Character Code

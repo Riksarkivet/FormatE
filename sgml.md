@@ -1,8 +1,9 @@
 # sgml
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Standard Generalized Markup Language](#standard-generalized-markup-language)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Standard Generalized Markup Language](#standard-generalized-markup-language)
 
 # Standard Generalized Markup Language
 | classification

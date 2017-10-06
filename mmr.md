@@ -1,8 +1,9 @@
 # mmr
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Modified Modified READ](#modified-modified-read)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Modified Modified READ](#modified-modified-read)
 
 # Modified Modified READ
 | classification

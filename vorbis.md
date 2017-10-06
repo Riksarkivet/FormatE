@@ -1,9 +1,10 @@
 # vorbis
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Vorbis](#vorbis)
-| alias          | [Ogg](ogg.md) [Vorbis](#vorbis)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Vorbis](#vorbis)
+| alias             | [Ogg](ogg.md) [Vorbis](#vorbis)
 
 # Vorbis
 | classification

@@ -1,17 +1,18 @@
 # aac
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Advanced Audio Coding](#advanced-audio-coding)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Advanced Audio Coding](#advanced-audio-coding)
 
 # Advanced Audio Coding
 | classification
 | --------------
 | [audio coding format](audio.md)
 
-## specification
-| source | published         | reference
-| ------ | ----------------- | ---------
+## source
+| reference | note
+| --------- | ----
 | Bell Labs
 | Dolby Labs
 | Fraunhofer Institute

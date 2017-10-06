@@ -1,8 +1,9 @@
 # swf
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Small Web Format](#small-web-format)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Small Web Format](#small-web-format)
 
 # Small Web Format
 | classification

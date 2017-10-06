@@ -1,8 +1,9 @@
 # deflate
 
-| identifier     | value
-| -------------- | -----
-| alias          | [DEFLATE](#deflate)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [DEFLATE](#deflate)
 
 # DEFLATE
 | classification

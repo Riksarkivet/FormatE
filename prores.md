@@ -1,8 +1,9 @@
 # prores
 
-| identifier     | value
-| -------------- | -----
-| alias          | [ProRes](#ProRes)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [ProRes](#ProRes)
 
 # ProRes
 | classification
@@ -17,9 +18,9 @@
 ## 4444 XQ
 ..
 
-## specification
-| source | published         | reference
-| ------ | ----------------- | ---------
+## source
+| reference | note
+| --------- | ----
 | Apple
 
 support.apple.com/en-us/HT202410 (20161017)

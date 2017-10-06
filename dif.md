@@ -1,8 +1,9 @@
 # dif
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Digital Interface Format](#digital-interface-format)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Digital Interface Format](#digital-interface-format)
 
 # Digital Interface Format
 | classification

@@ -1,19 +1,20 @@
 # pdf
 
-| identifier | value
-| ---------- | -----
-| alias      | [Portable Document Format](#portable-document-format)
-| alias      | [PDF/A-1](pdfa.md)
-| alias      | [PDF/A-2](pdfa.md)
-| alias      | [PDF/A-3](pdfa.md)
-| alias      | [PDF/A-4](pdfa.md)
-| alias      | [PDF/E-1](pdfe.md)
-| alias      | [PDF/UA-1](pdfua.md)
-| alias      | [PDF/VCR-1](pdfvcr.md)
-| alias      | [PDF/VDX-2005](pdfvdx.md)
-| alias      | [PDF/VT-1](pdfvt.md)
-| alias      | [PDF/VT-2](pdfvt.md)
-| alias      | [PDF/X-1](pdfx.md)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Portable Document Format](#portable-document-format)
+| alias             | [PDF/A-1](pdfa.md)
+| alias             | [PDF/A-2](pdfa.md)
+| alias             | [PDF/A-3](pdfa.md)
+| alias             | [PDF/A-4](pdfa.md)
+| alias             | [PDF/E-1](pdfe.md)
+| alias             | [PDF/UA-1](pdfua.md)
+| alias             | [PDF/VCR-1](pdfvcr.md)
+| alias             | [PDF/VDX-2005](pdfvdx.md)
+| alias             | [PDF/VT-1](pdfvt.md)
+| alias             | [PDF/VT-2](pdfvt.md)
+| alias             | [PDF/X-1](pdfx.md)
 
 # Portable Document Format
 | classification
@@ -23,36 +24,21 @@
 | [instruction format](instruction.md)
 | [text format](text.md)
 
-| identifier              | value
-| ----------------------- | -----
-| file extension          | pdf
-| content/media/MIME type | application/pdf, application/x-bzpdf, application/x-gzpdf, application/x-pdf
-| magic number            | %PDF
-| UTI                     | com.adobe.pdf
+## identifier
+| type              | value
+| ----------------- | -----
+| file extension    | pdf
+| content/type/MIME | application/pdf
+| content/type/MIME | application/x-bzpdf
+| content/type/MIME | application/x-gzpdf
+| content/type/MIME | application/x-pdf
+| magic number      | %PDF
+| UTI               | com.adobe.pdf
 
-## component
-| specification | format
-| ------------- | ------
-| 1.4           |
+## source
+| reference | note
+| --------- | ----
+| Adobe Systems Incorporated PDF Reference | 2001, edition 3, p. 978
+| ISO 32000-1:2008 -- Document management -- Portable document format -- Part 1: PDF 1.7 | 2008-07, edition 1, pages 747
+| ISO 32000-2:2017 -- Document management -- Portable document format -- Part 2: PDF 2.0 | 2017-07, edition 1, pages 971
 
-## implementation
-### functionality
-...
-### verification
-...
-#### reference implementation
-...
-#### test file
-| third party | edited | self-created
-| ------------| ------ | ------------
-| ...         | ...    | ...
-
-## specification
-| source                     | published | reference
-| -------------------------- | --------- | ---------
-| Adobe Systems Incorporated | 2001      | PDF Reference (Edition 3, p. 978)
-| ISO                        | 2008-07   | ISO 32000-1:2008 -- Document management -- Portable document format -- Part 1: PDF 1.7 (edition 1, pages 747)
-| ISO                        | 2017-07   | ISO 32000-2:2017 -- Document management -- Portable document format -- Part 2: PDF 2.0 (edition 1, pages 971)
-
-## validation
-...

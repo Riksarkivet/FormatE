@@ -1,5 +1,4 @@
 # PackBits
-
 | classification
 | --------------
 | [lossless compression](compression.md)

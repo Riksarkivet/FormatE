@@ -1,9 +1,13 @@
 # tifffx
 
-| identifier     | value
-| -------------- | -----
-| alias          | [TIFF/FX](#tiff/fx)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [TIFF/FX](#tiff/fx)
 
 # TIFF/FX
-## specification
-RFC 3949
+
+## source
+| reference | note
+| --------- | ----
+| RFC 3949

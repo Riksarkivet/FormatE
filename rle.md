@@ -1,11 +1,11 @@
 # rle
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Run-Length Encoding](#run-length encoding)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Run-Length Encoding](#run-length encoding)
 
 # Run-Length Encoding
-
 | classification
 | --------------
 | [lossless coding format](compression.md)

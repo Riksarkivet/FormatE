@@ -1,8 +1,9 @@
 # wma
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Windows Media Audio](#windows-media-audio)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Windows Media Audio](#windows-media-audio)
 
 # Windows Media Audio
 | classification

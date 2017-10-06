@@ -1,9 +1,10 @@
 # ogg
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Ogg](#ogg)
-| alias          | [Ogg](#ogg) [Vorbis](vorbis.md)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Ogg](#ogg)
+| alias             | [Ogg](#ogg) [Vorbis](vorbis.md)
 
 # Ogg
 | classification

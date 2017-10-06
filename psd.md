@@ -1,8 +1,9 @@
 # psd
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Photoshop Document](#photoshop-document)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Photoshop Document](#photoshop-document)
 
 # Photoshop Document
 | classification

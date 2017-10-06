@@ -1,8 +1,9 @@
 # dpx
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Digital Picture Exchange](#digital-picture-exchange)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Digital Picture Exchange](#digital-picture-exchange)
 
 # Digital Picture Exchange
 | classification

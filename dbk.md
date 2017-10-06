@@ -1,21 +1,23 @@
 # dbk
 
-| identifier     | value
-| -------------- | -----
-| alias          | [DocBook](#DocBook)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [DocBook](#DocBook)
 
 # DocBook
 | classification
 | --------------
 | [markup format](markup.md)
 
-| identifier        | value
+## identifier
+| type              | value
 | ----------------- | -----
 | content/type/MIME | application/docbook+xml
 | file extension    | dbk
 | file extension    | xml
 
-## specification
-| source | published         | reference
-| ------ | ----------------- | ---------
+## source
+| reference | note
+| --------- | ----
 | OASIS

@@ -1,8 +1,9 @@
 # latex
 
-| identifier     | value
-| -------------- | -----
-| alias          | [LaTeX](#latex)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [LaTeX](#latex)
 
 # LaTeX
 | classification

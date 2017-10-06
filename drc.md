@@ -1,8 +1,9 @@
 # drc
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Dirac](#dirac)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Dirac](#dirac)
 
 # Dirac
 | classification
@@ -10,7 +11,7 @@
 | [lossless coding format](compression.md)
 | [video coding format](video.md)
 
-## specification
-| source | published         | reference
-| ------ | ----------------- | ---------
+## source
+| reference | note
+| --------- | ----
 | BBC Research & Development

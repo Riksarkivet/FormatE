@@ -1,6 +1,7 @@
 # doc
 
-| identifier        | value
+## identifier
+| type              | value
 | ----------------- | -----
 | alias             | [Microsoft Word Binary File Format](#microsoft-word-binary-file-format)
 
@@ -9,7 +10,8 @@
 | --------------
 | [text format](text.md)
 
-| identifier        | value
+## identifier
+| type              | value
 | ----------------- | -----
 | content/type/MIME | application/msword
 | file extension    | doc

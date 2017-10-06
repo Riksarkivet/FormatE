@@ -1,12 +1,13 @@
 # interlaced
 
-| identifier | value
-| ---------- | -----
-| alias      | [Interlaced image frame](#interlaced-image-frame)
-| incorrect  | [I-Frame](intra-frame.md)
-| incorrect  | [Iframe](intra-frame.md)
-| incorrect  | [Inter-frame prediction](intra-frame.md)
-| incorrect  | [Intra-frame](intra-frame.md)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Interlaced image frame](#interlaced-image-frame)
+| incorrect         | [I-Frame](intra-frame.md)
+| incorrect         | [Iframe](intra-frame.md)
+| incorrect         | [Inter-frame prediction](intra-frame.md)
+| incorrect         | [Intra-frame](intra-frame.md)
 
 ## image frame
 An interlaced video frame consists of two fields. One field contains the even

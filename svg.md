@@ -1,8 +1,9 @@
 # svg
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Scalable Vector Graphics](#scalable-vector-graphics)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Scalable Vector Graphics](#scalable-vector-graphics)
 
 # Scalable Vector Graphics
 | classification

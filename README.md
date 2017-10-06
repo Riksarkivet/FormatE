@@ -50,5 +50,5 @@ A physical manifestation of either a specification, an implementation, or an ins
 
 | reference | note
 | --------- | ----
-|
+| ...
 

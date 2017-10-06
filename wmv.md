@@ -1,8 +1,9 @@
 # wmv
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Windows Media Video](#windows-media-video)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Windows Media Video](#windows-media-video)
 
 # Windows Media Video
 

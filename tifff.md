@@ -1,9 +1,13 @@
 # tifff
 
-| identifier     | value
-| -------------- | -----
-| alias          | [TIFF/F](#tiff/f)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [TIFF/F](#tiff/f)
 
 # TIFF/F
-# specification
-RFC 2306
+
+## source
+| reference | note
+| --------- | ----
+| RFC 2306

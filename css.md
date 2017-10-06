@@ -1,17 +1,18 @@
 # css
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Cascading Style Sheets](#cascading-style-sheets)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Cascading Style Sheets](#cascading-style-sheets)
 
 # Cascading Style Sheets
 | classification
 | --------------
 | [syntax format](syntax.md)
 
-## specification
-| source | published         | reference
-| ------ | ----------------- | ---------
+## source
+| reference | note
+| --------- | ----
 | Håkon Wium Lie
 | Bert Bos
 | World Wide Web Consortium

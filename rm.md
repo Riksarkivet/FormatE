@@ -1,8 +1,9 @@
 # rm
 
-| identifier     | value
-| -------------- | -----
-| alias          | [RealMedia](#realmedia)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [RealMedia](#realmedia)
 
 # RealMedia
 | classification

@@ -1,8 +1,9 @@
 # huffyuv
 
-| identifier     | value
-| -------------- | -----
-| alias          | [HuffYUV](#huffyuv)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [HuffYUV](#huffyuv)
 
 # HuffYUV
 | classification
@@ -10,6 +11,7 @@
 | [lossless compression format](compression.md)
 | [video coding format](video.md)
 
-| identifier     | value
-| -------------- | -----
-| alias          | Huffyuv
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | Huffyuv

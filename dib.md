@@ -1,6 +1,7 @@
 # dib
 
-| identifier     | value
-| -------------- | -----
-| alias          | [BMP](../master/bmp.md)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [BMP](../master/bmp.md)
 

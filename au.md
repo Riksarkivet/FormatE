@@ -1,15 +1,16 @@
 # au
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Au](#au)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Au](#au)
 
 # Au
 | classification
 | --------------
 | ...
 
-## specification
-| source | published         | reference
-| ------ | ----------------- | ---------
+## source
+| reference | note
+| --------- | ----
 | Sun Microsystems

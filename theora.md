@@ -1,8 +1,9 @@
 # theora
 
-| identifier     | value
-| -------------- | -----
-| alias          | [Theora](#theora)
+## identifier
+| type              | value
+| ----------------- | -----
+| alias             | [Theora](#theora)
 
 # Theora
 | classification
