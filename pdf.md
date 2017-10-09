@@ -15,12 +15,12 @@
 | alias             | [PDF/VDX-2005](pdfvdx.md#pdfvdx-2005)
 | alias             | [PDF/VT-1](pdfvt.md#pdfvt-1)
 | alias             | [PDF/VT-2](pdfvt.md#pdfvt-2)
-| alias             | [PDF/X-1](pdfx.md#pdf/x-1)
-| alias             | [PDF/X-2](pdfx.md#pdf/x-2)
-| alias             | [PDF/X-3](pdfx.md#pdf/x-3)
-| alias             | [PDF/X-4](pdfx.md#pdf/x-4)
-| alias             | [PDF/X-5](pdfx.md#pdf/x-5)
-| alias             | [PDF/X-6](pdfx.md#pdf/x-6)
+| alias             | [PDF/X-1](pdfx.md#pdfx-1)
+| alias             | [PDF/X-2](pdfx.md#pdfx-2)
+| alias             | [PDF/X-3](pdfx.md#pdfx-3)
+| alias             | [PDF/X-4](pdfx.md#pdfx-4)
+| alias             | [PDF/X-5](pdfx.md#pdfx-5)
+| alias             | [PDF/X-6](pdfx.md#pdfx-6)
 
 # Portable Document Format
 | classification
