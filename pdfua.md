@@ -3,9 +3,9 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [PDF/UA](#pdf/ua)
+| alias             | [PDF/UA-1](#pdfua-1)
 
-# PDF/UA
+# PDF/UA-1
 
 ## source
 | reference | note
