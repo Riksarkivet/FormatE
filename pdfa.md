@@ -3,10 +3,10 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [PDF/A-1](#pdf/a-1)
-| alias             | [PDF/A-2](#pdf/a-2)
-| alias             | [PDF/A-3](#pdf/a-3)
-| alias             | [PDF/A-NEXT](#pdf/a-next)
+| alias             | [PDF/A-1](#pdfa-1)
+| alias             | [PDF/A-2](#pdfa-2)
+| alias             | [PDF/A-3](#pdfa-3)
+| alias             | [PDF/A-NEXT](#pdfa-next)
 
 # PDF/A-1
 
