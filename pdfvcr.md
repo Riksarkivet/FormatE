@@ -3,9 +3,9 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [PDF/VCR](#pdf/vcr)
+| alias             | [PDF/VCR](#pdfvcr-1)
 
-# PDF/VCR
+# PDF/VCR-1
 
 ## identifier
 | type              | value

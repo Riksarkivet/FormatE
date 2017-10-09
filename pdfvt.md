@@ -3,7 +3,8 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [PDF/VT](#pdf/vt)
+| alias             | [PDF/VT-1](#pdfvt-1)
+| alias             | [PDF/VT-2](#pdfvt-2)
 
 # PDF/VT-1
 

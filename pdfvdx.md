@@ -3,9 +3,9 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [PDF/VDX](#pdf/vdx)
+| alias             | [PDF/VDX-2005](#pdfvdx-2005)
 
-# PDF/VDX
+# PDF/VDX-2005
 
 ## identifier
 | type              | value
