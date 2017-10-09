@@ -4,10 +4,10 @@
 | type              | value
 | ----------------- | -----
 | alias             | [Portable Document Format](#portable-document-format)
-| alias             | [PDF/A-1](pdfa.md)
-| alias             | [PDF/A-2](pdfa.md)
-| alias             | [PDF/A-3](pdfa.md)
-| alias             | [PDF/A-4](pdfa.md)
+| alias             | [pdf/a-1](pdfa#pdf/a-1.md)
+| alias             | [pdf/a-2](pdfa#pdf/a-2.md)
+| alias             | [pdf/a-3](pdfa#pdf/a-3.md)
+| alias             | [pdf/a-next](pdfa#pdf/a-next.md)
 | alias             | [PDF/E-1](pdfe.md)
 | alias             | [PDF/UA-1](pdfua.md)
 | alias             | [PDF/VCR-1](pdfvcr.md)
