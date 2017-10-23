@@ -13,10 +13,10 @@
 | [syntax format](syntax.md)
 
 ## identifier
-| type              | value
-| ----------------- | -----
-| content/type/MIME | text/csv
-| file extension    | csv
+| type                    | value
+| ----------------------- | -----
+| media/MIME/content type | text/csv
+| file extension          | csv
 
 ## source
 | reference | note

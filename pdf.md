@@ -31,15 +31,15 @@
 | [text format](text.md)
 
 ## identifier
-| type              | value
-| ----------------- | -----
-| file extension    | pdf
-| content/type/MIME | application/pdf
-| content/type/MIME | application/x-bzpdf
-| content/type/MIME | application/x-gzpdf
-| content/type/MIME | application/x-pdf
-| magic number      | %PDF
-| UTI               | com.adobe.pdf
+| type                    | value
+| ----------------------- | -----
+| file extension          | pdf
+| media/MIME/content type | application/pdf
+| media/MIME/content type | application/x-bzpdf
+| media/MIME/content type | application/x-gzpdf
+| media/MIME/content type | application/x-pdf
+| magic number            | %PDF
+| UTI                     | com.adobe.pdf
 
 ## source
 | reference | note

@@ -3,12 +3,12 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [PDF/X](#pdf/x-1)
-| alias             | [PDF/X](#pdf/x-2)
-| alias             | [PDF/X](#pdf/x-3)
-| alias             | [PDF/X](#pdf/x-4)
-| alias             | [PDF/X](#pdf/x-5)
-| alias             | [PDF/X](#pdf/x-6)
+| alias             | [PDF/X-1](#pdfx-1)
+| alias             | [PDF/X-2](#pdfx-2)
+| alias             | [PDF/X-3](#pdfx-3)
+| alias             | [PDF/X-4](#pdfx-4)
+| alias             | [PDF/X-5](#pdfx-5)
+| alias             | [PDF/X-6](#pdfx-6)
 
 # PDF/X-1
 

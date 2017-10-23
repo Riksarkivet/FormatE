@@ -13,10 +13,10 @@
 | [lossless compression format](compression.md)
 
 ## identifier
-| type              | value
-| ----------------- | -----
-| content/type/MIME | audio/L16
-| content/type/MIME | audio/L8
-| content/type/MIME | audio/L20
-| content/type/MIME | audio/L24
-| file extension    | pcm
+| type                    | value
+| ----------------------- | -----
+| media/MIME/content type | audio/L16
+| media/MIME/content type | audio/L8
+| media/MIME/content type | audio/L20
+| media/MIME/content type | audio/L24
+| file extension          | pcm

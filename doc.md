@@ -11,8 +11,8 @@
 | [text format](text.md)
 
 ## identifier
-| type              | value
-| ----------------- | -----
-| content/type/MIME | application/msword
-| file extension    | doc
-| UTI               | com.microsoft.word.doc
+| type                    | value
+| ----------------------- | -----
+| media/MIME/content type | application/msword
+| file extension          | doc
+| UTI                     | com.microsoft.word.doc

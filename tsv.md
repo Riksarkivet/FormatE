@@ -11,11 +11,11 @@
 | [database format](database.md), [syntax format](syntax.md)
 
 ## identifier
-| type              | value
-| ----------------- | -----
-| content/type/MIME | text/tab-separated-values
-| file extension    | tab
-| file extension    | tsv
+| type                    | value
+| ----------------------- | -----
+| media/MIME/content type | text/tab-separated-values
+| file extension          | tab
+| file extension          | tsv
 
 ## source
 | reference | note

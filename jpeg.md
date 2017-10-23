@@ -6,21 +6,24 @@
 | alias             | [Joint Photographic Experts Group](#joint-photographic-experts-group)
 
 # Joint Photographic Experts Group
-## DCT
+
+* [DCT](dct.md)
+
 | classification
 | --------------
 | [image format](image.md)
 | [lossy compression format](compression.md)
 
 ## identifier
-| type              | value
-| ----------------- | -----
-| content/type/MIME | image/jpeg
-| file extension    | jpg
-| file extension    | jpeg
-| file format       | [JFIF](jfif.md)
-| file format       | [JIF](jif.md)
-| variation         | [JPEG 2000](jp2.md)
+| type                    | value
+| ----------------------- | -----
+| media/MIME/content type | image/jpeg
+| file extension          | jpg
+| file extension          | jpeg
+| file format             | [JFIF](jfif.md)
+| file format             | [JIF](jif.md)
+| file format             | [SPIFF](spiff.md)
+| variation               | [JPEG 2000](jp2.md)
 
 ## source
 | reference | note
@@ -41,7 +44,7 @@
 | ITU T.84 (1996) Amendment 1 (04/99) Provisions to allow registration of new compression types and versions in the SPIFF header
 | ITU T.86 (06/98) Information technology - Digital compression and coding of continuous-tone still images: Registration of JPEG Profiles, SPIFF Profiles, SPIFF Tags, SPIFF colour Spaces, APPn Markers, SPIFF Compression types and Registration authorities (REGAUT)
 | ITU T.86 (1998) Amendment 1 (06/12) Application-specific marker list
-| ITU T.87 (06/98) Information technology – Lossless and near-lossless compression of continuous-tone still images – Baseline | `"This Recommendation includes one diskette containing the JPEG-LS Lossless and near-lossless image compression reference implementation and a conformance testing image set"`
+| ITU T.87 (06/98) Information technology ??? Lossless and near-lossless compression of continuous-tone still images ??? Baseline | `"This Recommendation includes one diskette containing the JPEG-LS Lossless and near-lossless image compression reference implementation and a conformance testing image set"`
 | libjpeg `https://wiki.linuxfoundation.org/en/Libjpeg`
 | libjpeg-turbo
 | mozjpeg

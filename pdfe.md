@@ -3,8 +3,8 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [PDF/E](#pdfe-1)
-| alias             | [PDF/E](#pdfe-2)
+| alias             | [PDF/E-1](#pdfe-1)
+| alias             | [PDF/E-2](#pdfe-2)
 
 # PDF/E-1
 

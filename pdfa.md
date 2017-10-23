@@ -26,7 +26,7 @@
 ### verification
 ...
 ## validation
-* veraPDF
+* [veraPDF.org](http://verapdf.org)
 
 
 # PDF/A-2
