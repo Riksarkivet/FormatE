@@ -3,7 +3,7 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [Tagged Image File Format](#Tagged Image File Format)
+| alias             | [Tagged Image File Format](#tagged-image-file-format)
 | alias             | [DNG](dng.md)
 | alias             | [TIFF Baseline](tiffbaseline.md)
 | alias             | [TIFF/EP](tiffep.md)
