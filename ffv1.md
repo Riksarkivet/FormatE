@@ -16,3 +16,8 @@
 | ----------------- | -----
 | alias             | FFV1
 | alias             | Fast Forward Video codec 1
+
+## source
+| reference | note
+| --------- | ----
+| FFV1 Specification | [Work in progress](https://github.com/FFmpeg/FFV1)
