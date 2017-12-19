@@ -13,5 +13,5 @@
 ## source
 | reference | note
 | --------- | ----
-| TIFF Revision 6.0 Final -- June 3, 1992 | 
+| TIFF Revision 6.0 Final -- June 3, 1992 | Part 1: Baseline TIFF (p 11).
 
