@@ -14,4 +14,4 @@
 ## source
 | reference | note
 | --------- | ----
-| ISO 12234-2
+| ISO 12234-2:2001 -- Electronic still-picture imaging -- Removable memory -- Part 2: TIFF/EP image data format | 2001-10, edition 1, pages 60
