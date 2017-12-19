@@ -4,6 +4,7 @@
 | type              | value
 | ----------------- | -----
 | alias             | [Portable Document Format](#portable-document-format)
+| alias             | [PDF](#portable-document-format)
 | alias             | [PDF/A-1](pdfa.md#pdfa-1)
 | alias             | [PDF/A-2](pdfa.md#pdfa-2)
 | alias             | [PDF/A-3](pdfa.md#pdfa-3)
