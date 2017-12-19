@@ -3,6 +3,7 @@
 ## identifier
 | type              | value
 | ----------------- | -----
+| alias             | [TIFF Extended](#tagged-image-file-format-extensions)
 | alias             | [Tagged Image File Format Extensions](#tagged-image-file-format-extensions)
 
 # Tagged Image File Format Extensions
