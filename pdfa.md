@@ -13,7 +13,7 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| same as           | [PDF](pdf.md)
+| same as           | [PDF](pdf.md#identifier-1)
 
 ## source
 | reference | note
@@ -30,12 +30,20 @@
 
 
 # PDF/A-2
+## identifier
+| type              | value
+| ----------------- | -----
+| same as           | [PDF](pdf.md#identifier-1)
 ## source
 | reference | note
 | --------- | ----
 | ISO 19005-2:2011 -- Document management -- Electronic document file format for long-term preservation -- Part 2: Use of ISO 32000-1 (PDF/A-2) | 2011-07, edition 1, pages 36
 
 # PDF/A-3
+## identifier
+| type              | value
+| ----------------- | -----
+| same as           | [PDF](pdf.md#identifier-1)
 ## source
 | reference | note
 | --------- | ----
