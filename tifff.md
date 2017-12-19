@@ -10,4 +10,4 @@
 ## source
 | reference | note
 | --------- | ----
-| RFC 2306
+| RFC 2306  | Tag Image File Format (TIFF) - F Profile for Facsimile
