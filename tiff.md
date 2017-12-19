@@ -6,6 +6,7 @@
 | alias             | [Tagged Image File Format](#tagged-image-file-format)
 | alias             | [BigTIFF](bigtiff.md)
 | alias             | [DNG](dng.md)
+| alias             | [TI/A](tia.md)
 | alias             | [TIFF Baseline](tiffbaseline.md)
 | alias             | [TIFF/EP](tiffep.md)
 | alias             | [TIFF Extended](tiffextensions.md)
