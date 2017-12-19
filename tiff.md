@@ -4,6 +4,7 @@
 | type              | value
 | ----------------- | -----
 | alias             | [Tagged Image File Format](#tagged-image-file-format)
+| alias             | [BigTIFF](bigtiff.md)
 | alias             | [DNG](dng.md)
 | alias             | [TIFF Baseline](tiffbaseline.md)
 | alias             | [TIFF/EP](tiffep.md)
