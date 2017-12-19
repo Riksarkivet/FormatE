@@ -6,8 +6,8 @@
 | alias             | [Tagged Image File Format Image Technology](#tiff-image-technology)
 | alias             | [TIFF/IT](#tiff-image-technology)
 | alias             | [TIFF/IT P1](#tiff-image-technology-profile-1)
-| alias             | [TIFF/IT-P1](#tiff-image-technology-profile-1)
 | alias             | [TIFF/IT P2](#tiff-image-technology-profile-2)
+| alias             | [TIFF/IT-P1](#tiff-image-technology-profile-1)
 | alias             | [TIFF/IT-P2](#tiff-image-technology-profile-2)
 
 # TIFF Image Technology
