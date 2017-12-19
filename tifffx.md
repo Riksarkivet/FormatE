@@ -3,9 +3,9 @@
 ## identifier
 | type              | value
 | ----------------- | -----
-| alias             | [TIFF/FX](#tiff/fx)
+| alias             | [TIFF-FX](#tiff-fx)
 
-# TIFF/FX
+# TIFF-FX
 
 ## source
 | reference | note
