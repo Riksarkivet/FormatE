@@ -13,5 +13,5 @@
 ## source
 | reference | note
 | --------- | ----
-| TIFF 6.0
+| TIFF Revision 6.0 Final -- June 3, 1992 | 
 
