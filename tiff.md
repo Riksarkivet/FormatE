@@ -7,6 +7,7 @@
 | alias             | [DNG](dng.md)
 | alias             | [TIFF Baseline](tiffbaseline.md)
 | alias             | [TIFF/EP](tiffep.md)
+| alias             | [TIFF Extensions](tiffextensions.md)
 | alias             | [TIFF-F](tifff.md)
 | alias             | [TIFF-FX](tifffx.md)
 | alias             | [TIFF/IT](tiffit.md)
