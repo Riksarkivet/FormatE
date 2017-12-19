@@ -14,6 +14,8 @@
 | alias             | [TIFF-F](tifff.md)
 | alias             | [TIFF-FX](tifffx.md)
 | alias             | [TIFF/IT](tiffit.md)
+| alias             | [TIFF/IT P1](tiffit#tiff-image-technology-profile-1.md)
+| alias             | [TIFF/IT P2](tiffit#tiff-image-technology-profile-2.md)
 | alias             | [TIFF sequence](tiffsequence.md)
 
 # Tagged Image File Format
