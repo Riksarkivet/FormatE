@@ -16,4 +16,4 @@
 | ----------------- | -----
 | alias             | FLAC
 | file extension    | flac
-| magic number      | fLaC
+| signature         | fLaC

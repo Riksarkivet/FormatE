@@ -39,7 +39,7 @@
 | media/MIME/content type | application/x-bzpdf
 | media/MIME/content type | application/x-gzpdf
 | media/MIME/content type | application/x-pdf
-| magic number            | %PDF
+| signature               | %PDF
 | UTI                     | com.adobe.pdf
 
 ## source

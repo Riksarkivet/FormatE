@@ -16,7 +16,7 @@
 | ----------------------- | -----
 | media/MIME/content type | image/ong
 | file extension          | png
-| magic number            | 89 50 4e 47 0d 0a 1a 0a
+| signature               | 89 50 4e 47 0d 0a 1a 0a
 | UTI                     | public.png
 
 ## source
