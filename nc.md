@@ -10,7 +10,7 @@
 | alias             | [Parallel-NetCDF](#parallel-netcdf)
 
 # Network Common Data Form
-The `Network Common Data Form` refers both to a format, an interface and a program that implements the interface. The first program was a re-implementation of the program for [CDF](cdf) but ["NetCDF and CDF have evolved independently`."](https://www.unidata.ucar.edu/software/netcdf/docs/faq.html#What-is-the-connection-between-netCDF-and-CDF).
+The `Network Common Data Form` refers both to a format, an interface and a program that implements the interface. The first program was a re-implementation of the program for [CDF](cdf.md) but ["NetCDF and CDF have evolved independently."](https://www.unidata.ucar.edu/software/netcdf/docs/faq.html#What-is-the-connection-between-netCDF-and-CDF).
 
 ## identifier
 | type                    | value
