@@ -1,6 +1,0 @@
-# pades
-
-## identifier
-| type              | value
-| ----------------- | -----
-| ...
