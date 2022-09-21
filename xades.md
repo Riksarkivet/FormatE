@@ -1,6 +1,0 @@
-# xades
-
-## identifier
-| type              | value
-| ----------------- | -----
-| ...
